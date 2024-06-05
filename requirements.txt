@@ -1,0 +1,6 @@
+### dependency
+seaborn
+matplotlib
+scikit-learn
+streamlit
+numpy
